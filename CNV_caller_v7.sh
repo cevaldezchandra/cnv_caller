@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Wrapper for submitting CNV to Medivation cluster. This script
+# Wrapper for submitting CNV to cluster. This script
 # will create a .pbs script for each individual job requested.
 
 export OUT="/work/trqlogs/cfDNA/"
