@@ -2,7 +2,7 @@
 
 This R script takes the outputs from the program EXCAVATOR (Magi, A., et al., EXCAVATOR: detecting copy number variants from whole-exome sequencing data. Genome Biol, 2013. 14(10): p. R120) and produces a gene level amplification summary for the genes of interest. 
 
-# Setting input paths for EXCAVATOR calculations
+## Setting input paths for EXCAVATOR calculations
 
 ### Input should look like:
 Rscript CNV_v7.R /path/to/sample.bam targetname /path/to/output
