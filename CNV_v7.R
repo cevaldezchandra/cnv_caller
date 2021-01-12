@@ -1,6 +1,5 @@
-##### cfDNA CN caller - PALOMA3 samples #######
+##### cfDNA CN caller - ########################
 ### Written by Crystal Valdez 
-### Developed by Crystal Valdez & Tao Xie
 ### Date: August 15, 2017
 ### Version: 2.0
 ###############################################
